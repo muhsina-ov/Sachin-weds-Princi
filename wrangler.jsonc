@@ -1,9 +1,7 @@
 {
-  "$schema": "node_modules/wrangler/config-schema.json",
   "name": "sachin-weds-princi",
   "compatibility_date": "2026-09-03",
   "assets": {
-    "directory": ".",
-    "exclude": ["node_modules/**", ".git/**", "scratch/**", "*.log", "*.tmp"]
+    "directory": "."
   }
 }
